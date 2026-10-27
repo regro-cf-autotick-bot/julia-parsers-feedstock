@@ -1,6 +1,6 @@
 {% set name = "julia-parsers" %}
-{% set version = "2.8.6" %}
-{% set sha256 = "1e7b6d8bfcfdd78b3654f7af32f1f29c198adf91e4712a8d64d0d098319e3c40" %}
+{% set version = "3.0.2" %}
+{% set sha256 = "d7cc2dc240f8174cb81f0bc184c8707081b59ac22cd1dc137fc88b8fe7cad629" %}
 {% set julia_pkg_name = "Parsers" %}
 {% set julia_pkg_uuid = "69de0a69-1ddd-5017-9359-2bf0b02dc9f0" %}
 {% set julia_pkg_git = "https://github.com/JuliaData/Parsers.jl.git" %}
